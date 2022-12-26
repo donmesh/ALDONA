@@ -41,5 +41,5 @@ tensorflow==1.8.0
 termcolor==1.1.0
 urllib3==1.22
 Werkzeug==0.14.1
-wheel==0.31.1
+wheel==0.38.1
 zope.interface==4.5.0
